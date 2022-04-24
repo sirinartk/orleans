@@ -80,7 +80,7 @@
     <PackageReference Include="Microsoft.Orleans.OrleansRuntime" Version="3.0.0" />
     <PackageReference Include="Microsoft.Orleans.OrleansTelemetryConsumers.Counters" Version="3.0.0" />
     <PackageReference Include="NetEscapades.AspNetCore.SecurityHeaders" Version="0.10.0" />
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.0.0" />
     <PackageReference Include="polly" Version="7.1.1" />
     <PackageReference Include="Polly.Extensions.Http" Version="3.0.0" />
